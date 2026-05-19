@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "redux": "latest",
+    "react-redux": "latest",
+    "@types/react": "19.0.0",
+    "@expo/vector-icons": "^15.0.3",
+    "react-native-paper": "4.9.2"
+  }
+}
